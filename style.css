@@ -1,0 +1,159 @@
+.frame {
+  width: 100%;
+  min-width: 1512px;
+  min-height: 1969px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.frame .macbook-pro {
+  background-color: #7a61a5;
+  overflow: hidden;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+}
+
+.frame .rectangle {
+  position: absolute;
+  top: -31px;
+  left: 511px;
+  width: 553px;
+  height: 226px;
+  background-color: #c21818;
+}
+
+.frame .text-wrapper {
+  top: 18px;
+  left: 542px;
+  width: 522px;
+  font-family: "Inter-Regular", Helvetica;
+  color: #71d8b8;
+  font-size: 64px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .mau-makan-murah-enak {
+  position: absolute;
+  top: 232px;
+  left: 0;
+  width: 815px;
+  font-family: "Jacques Francois-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rm-sola-removebg {
+  top: 725px;
+  left: 214px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+  aspect-ratio: 1.25;
+  object-fit: cover;
+}
+
+.frame .img {
+  top: 491px;
+  left: 856px;
+  width: 656px;
+  height: 491px;
+  position: absolute;
+  aspect-ratio: 1.25;
+  object-fit: cover;
+}
+
+.frame .text-on-a-path {
+  position: absolute;
+  top: 1362px;
+  left: 1683px;
+  width: 393px;
+  height: 129px;
+}
+
+.frame .div {
+  position: absolute;
+  top: 790px;
+  left: 125px;
+  width: 228px;
+  height: 107px;
+  background-color: #d9d9d9;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 790px;
+  left: 125px;
+  width: 228px;
+  font-family: "Jacques Francois-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: 777px;
+  left: 368px;
+  width: 79px;
+  font-family: "Jacques Francois-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .macbook-pro-2 {
+  background-color: #5a23ff;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  top: 140px;
+  left: calc(50.00% - 277px);
+  width: 553px;
+  font-family: "Jacques Francois-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .p {
+  top: 302px;
+  left: 48px;
+  width: 1416px;
+  font-family: "Jaro-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 48px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .aku-mau-lima {
+  position: absolute;
+  top: 759px;
+  left: 1286px;
+  width: 226px;
+  height: 223px;
+  aspect-ratio: 1.01;
+  object-fit: cover;
+}
